@@ -8,7 +8,7 @@ sudo zypper install zsh fzf
 
 Instalação do [Oh My ZSH](https://ohmyz.sh/)
 ```bash
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)”
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 Instalação dos plugins custom
